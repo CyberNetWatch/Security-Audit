@@ -9,7 +9,6 @@ This repository documents a **security audit** for Botium Toys, a fictional U.S.
 
 ## Repository Structure  
 - `audit-report/`: Contains the audit report and checklist.  
-- `assets/`: Stores visual aids (e.g., diagrams, logos).  
 - `scripts/`: Optional scripts for risk analysis or automation.  
 
 ## How to Use  
